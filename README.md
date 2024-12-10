@@ -34,52 +34,29 @@
 ## 使用方法
 
 添加 Base64 订阅：
-- [原始链接](https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt)
-- [JsDelivr 反代（zzko.cn）](https://cdn.jsdelivr.us/gh/chengaopan/AutoMergePublicNodes@master/list.txt)
-- [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt)
-- [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt)
-- [JsDelivr GCore CDN](https://gcore.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.txt)
-- [KKGithub](https://raw.kkgithub.com/chengaopan/AutoMergePublicNodes/master/list.txt)
-- [FastGit](https://raw.fgit.cf/chengaopan/AutoMergePublicNodes/master/list.txt)
+- [原始链接](https://raw.githubusercontent.com/ligusx/Auto/master/list.txt)
+- [JsDelivr 反代（zzko.cn）](https://cdn.jsdelivr.us/gh/ligusx/Auto@master/list.txt)
+- [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/ligusx/Auto@master/list.txt)
+- [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/ligusx/Auto@master/list.txt)
+- [JsDelivr GCore CDN](https://gcore.jsdelivr.net/gh/ligusx/Auto@master/list.txt)
+- [KKGithub](https://raw.kkgithub.com/ligusx/Auto/master/list.txt)
+- [FastGit](https://raw.fgit.cf/ligusx/Auto/master/list.txt)
 
 以下加速链接可能无效：
-- [KGithub](https://raw.kgithub.com/chengaopan/AutoMergePublicNodes/master/list.txt)
+- [KGithub](https://raw.kgithub.com/ligusx/Auto/master/list.txt)
 
 或添加 Clash 订阅：
-- [原始链接](https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml)
-- [JsDelivr 反代（zzko.cn）](https://cdn.jsdelivr.us/gh/chengaopan/AutoMergePublicNodes@master/list.yml)
-- [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.yml)
-- [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.yml)
-- [JsDelivr GCore CDN](https://gcore.jsdelivr.net/gh/chengaopan/AutoMergePublicNodes@master/list.yml)
-- [KKGithub](https://raw.kkgithub.com/chengaopan/AutoMergePublicNodes/master/list.yml)
-- [FastGit](https://raw.fgit.cf/chengaopan/AutoMergePublicNodes/master/list.yml)
+- [原始链接](https://raw.githubusercontent.com/ligusx/Auto/master/list.yml)
+- [JsDelivr 反代（zzko.cn）](https://cdn.jsdelivr.us/gh/ligusx/Auto@master/list.yml)
+- [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/ligusx/Auto@master/list.yml)
+- [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/ligusx/Auto@master/list.yml)
+- [JsDelivr GCore CDN](https://gcore.jsdelivr.net/gh/ligusx/Auto@master/list.yml)
+- [KKGithub](https://raw.kkgithub.com/ligusx/Auto/master/list.yml)
+- [FastGit](https://raw.fgit.cf/ligusx/Auto/master/list.yml)
 
 以下加速链接可能无效：
-- [KGithub](https://raw.kgithub.com/chengaopan/AutoMergePublicNodes/master/list.yml)
+- [KGithub](https://raw.kgithub.com/ligusx/Auto/master/list.yml)
 
 ## 免责声明
 
 订阅节点仅作学习交流使用，用于查找资料，学习知识，不做任何违法行为。所有资源均来自互联网，仅供大家交流学习使用，出现违法问题概不负责。**做出违法行为需要承担法律责任，侥幸逃脱是不可能的**！为阻止违法行为，本项目随时可以停止运行！！！
-
-## 一些题外话
-
-各位看一看：
-- **[【独家恢复】我们的教育弄虚作假，到底是为了什么](https://peasoft.github.io/2023/08/26/cnedu.html)：如此视频，为何惨遭删除？我们恢复了这段视频，只为让更多人可以看清现实。**
-- **[最流氓的软件可以流氓到什么程度？](https://www.zhihu.com/question/29129310)我翻开其他网页一查，歪歪斜斜的每页上都写着“危险网页”几个字。我横竖睡不着，仔细看了半夜，才从字缝里看出字来，满本都写着两个字是“霸权”！**
-- **[百度？百毒！](https://user.guancha.cn/main/content?id=100552)魏则西去世3周年：害死他的百度广告和莆田系医院**
-- **[《满江红》的行为艺术](https://www.bilibili.com/video/BV11v4y1t7Gw/)：秦桧竟是我自己？**
-- **[「 深蓝洞察 」2022 年度最“不可赦”漏洞](https://mp.weixin.qq.com/s/P_EYQxOEupqdU0BJMRqWsw)：知名互联网厂商(TMD并夕夕)持续挖掘新的安卓 OEM 相关漏洞，在其公开发布的 App 中实现对目前市场主流手机系统的漏洞攻击**（[具体分析](https://mp.weixin.qq.com/s/kiLvnJSDZpYRHI_XiUx9gg)）现已被工信部提名！
-- **[暑假学校敢补课？举报！](https://www.bilibili.com/video/BV1Vk4y1K79B)**
-- **[逃离戒网瘾学校？我们找到办法了](https://www.bilibili.com/video/BV1Mg4y1A7bE)：希望你永远用不到。**
-- **[一学校扔掉学生百余份外卖](https://www.bilibili.com/video/BV1a14y1S7n6)：涉嫌违法！**
-- 未完待续……
-
-## Star History
-
-<a href="https://star-history.com/#chengaopan/AutoMergePublicNodes">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=chengaopan/AutoMergePublicNodes&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=chengaopan/AutoMergePublicNodes" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=chengaopan/AutoMergePublicNodes" />
-  </picture>
-</a>
