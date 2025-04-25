@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #3'
+  name: '1,6|🇺🇸_US_美国 #7'
   network: ws
   port: 2086
   server: 104.19.38.62
@@ -12,7 +12,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #4'
+  name: '1,6|🇺🇸_US_美国 #8'
   network: ws
   port: 2086
   server: 104.19.47.122
@@ -34,7 +34,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #6'
+  name: '1,6|🇺🇸_US_美国 #10'
   network: ws
   port: 2086
   server: 104.19.46.36
@@ -51,7 +51,7 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #7'
+  name: '1,6|🇺🇸_US_美国 #11'
   network: ws
   port: 2086
   server: 104.20.25.146
@@ -68,7 +68,7 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #8'
+  name: '1,6|🇺🇸_US_美国 #12'
   network: ws
   port: 2086
   server: 104.19.21.230
@@ -90,7 +90,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #10'
+  name: '1,6|🇺🇸_US_美国 #14'
   network: ws
   port: 2052
   server: 104.19.46.123
@@ -107,7 +107,7 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #11'
+  name: '1,6|🇺🇸_US_美国 #15'
   network: ws
   port: 2086
   server: 104.19.51.232
@@ -118,7 +118,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #12'
+  name: '1,6|🇺🇸_US_美国 #16'
   network: ws
   port: 2086
   server: 104.19.46.233
@@ -129,7 +129,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #13'
+  name: '1,6|🇺🇸_US_美国 #17'
   network: ws
   port: 2086
   server: 104.19.46.59
@@ -139,7 +139,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #14'
+  name: '1,6|🇺🇸_US_美国 #18'
   network: ws
   port: 2086
   server: 104.19.46.27
@@ -150,7 +150,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #15'
+  name: '1,6|🇺🇸_US_美国 #19'
   network: ws
   port: 2086
   server: 104.19.45.15
@@ -161,7 +161,53 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '3,17|🇺🇸_US_美国 #16'
+  name: 2|🇺🇸_US_美国
+  network: ws
+  port: 2052
+  server: 104.16.38.71
+  tls: false
+  type: vmess
+  uuid: c286daa2-59de-455c-8de8-ec032b6ce2e8
+  ws-opts:
+    headers:
+      Host: us6_0.wish.ml
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '2|🇺🇸_US_美国 #1'
+  network: ws
+  port: 2052
+  server: hk.wish.ml
+  tls: false
+  type: vmess
+  uuid: c286daa2-59de-455c-8de8-ec032b6ce2e8
+  ws-opts:
+    headers:
+      Host: us6_0.wish.ml
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '2|🇺🇸_US_美国 #2'
+  network: ws
+  port: 34053
+  server: us-sanfrancisco-02.t3csyun.buzz
+  tls: false
+  type: vmess
+  uuid: 6d3404ef-27c6-48de-a83a-8ac6488760b4
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: '2|🇺🇸_US_美国 #3'
+  network: ws
+  port: 8080
+  server: 148.135.40.190
+  tls: false
+  type: vmess
+  uuid: f6c4905b-0308-4164-b1ad-4157531a8378
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: '3,17|🇺🇸_US_美国 #20'
   network: ws
   port: 2082
   server: cfcdn1.sanfencdn9.com
@@ -171,7 +217,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '3,17|🇺🇸_US_美国 #17'
+  name: '3,17|🇺🇸_US_美国 #21'
   network: ws
   port: 2086
   server: 104.19.32.46
@@ -181,7 +227,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '3,17|🇺🇸_US_美国 #18'
+  name: '3,17|🇺🇸_US_美国 #22'
   network: ws
   port: 8080
   server: russia.com
@@ -189,63 +235,11 @@ proxies:
   type: vmess
   uuid: b7c56170-edb4-4c4a-bb64-ed5ef40b8739
   ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇺🇸6 |  5.7MB/s
-  network: tcp
-  port: 5229
-  server: e890417c-svc1s0-t1bnjq-1krtb.cu.plebai.net
-  tls: false
-  type: vmess
-  uuid: 60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d
 - alterId: 2
   cipher: auto
-  name: 11|1|🇺🇸16 |  1.3MB/s
+  name: 11|2|🇺🇸7 |  4.5MB/s
   network: ws
-  port: '30808'
-  server: v8.heduian.link
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  ws-opts:
-    path: /oooo
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇺🇸17 |  5.5MB/s
-  network: tcp
-  port: 5228
-  server: 87b134e3-svc1s0-t28b6o-ef48.cu.plebai.net
-  tls: false
-  type: vmess
-  uuid: cb15123a-084c-11f0-8eab-f23c91cfbbc9
-- alterId: 2
-  cipher: auto
-  name: 11|1|🇺🇸21 |  5.9MB/s
-  network: ws
-  port: 22642
-  server: tk.hzlt.tkddns.xyz
-  tls: true
-  type: vmess
-  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
-  ws-opts: {}
-- alterId: 2
-  cipher: auto
-  name: 11|1|🇺🇸30 |  3.1MB/s
-  network: ws
-  port: 30808
-  server: v8.heduian.link
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  ws-opts:
-    headers:
-      Host: v8.heduian.link
-    path: /oooo
-- alterId: 2
-  cipher: auto
-  name: 11|1|🇺🇸44 |  5.9MB/s
-  network: ws
-  port: 22642
+  port: 22641
   server: tk.hzlt.tkddns.xyz
   servername: tk.hzlt.tkddns.xyz
   tls: true
@@ -253,36 +247,36 @@ proxies:
   uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
   ws-opts:
     headers:
-      Host: zxjp-b.tkong.cc
+      Host: zxjp-a.tkong.cc
     path: /
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇺🇸46 |  3.9MB/s
-  network: ws
-  port: 443
-  server: 45.194.53.81
-  servername: ''
-  tls: true
-  type: vmess
-  uuid: 0212fab5-e93c-4904-b7a8-187fd535f354
-  ws-opts:
-    headers:
-      Host: 3sdfgvcxxx.938.pp.ua
-    path: /P879mtCoHQqaWO67qEaMINZ1
 - alterId: 2
   cipher: auto
-  name: 11|1|🇺🇸52 |  5.8MB/s
+  name: 11|2|🇺🇸17 |  5.6MB/s
   network: ws
   port: 22643
   server: tk.hzlt.tkddns.xyz
-  servername: zxjp-c.tkong.cc
   tls: true
   type: vmess
   uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
-  ws-opts:
-    headers:
-      Host: zxjp-c.tkong.cc
-    path: /
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: 11|2|🇺🇸26 |  3.0MB/s
+  network: tcp
+  port: 5229
+  server: e890417c-svc1s0-t1bnjq-1krtb.cu.plebai.net
+  tls: false
+  type: vmess
+  uuid: 60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d
+- alterId: 0
+  cipher: auto
+  name: 11|2|🇺🇸33 |  3.7MB/s
+  network: tcp
+  port: 5228
+  server: 87b134e3-svc1s0-t28b6o-ef48.cu.plebai.net
+  tls: false
+  type: vmess
+  uuid: cb15123a-084c-11f0-8eab-f23c91cfbbc9
 - alterId: 0
   cipher: auto
   name: 11,16|美国|@ripaojiedian
