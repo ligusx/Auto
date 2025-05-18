@@ -526,52 +526,9 @@ proxies:
   type: vmess
   uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
   ws-opts: {}
-- alterId: 2
-  cipher: auto
-  client-fingerprint: chrome
-  name: 11,15,16|美国4|@ripaojiedian
-  network: ws
-  port: '22642'
-  server: tk.hzlt.tkddns.xyz
-  servername: zxjp-b.tkong.cc
-  skip-cert-verify: false
-  tfo: false
-  tls: true
-  type: vmess
-  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
-  ws-opts:
-    headers:
-      Host: zxjp-b.tkong.cc
-    path: /
-- alterId: 2
-  cipher: auto
-  name: 11|3|🇺🇸34 |  2.1MB/s|29%|Openai
-  network: ws
-  port: 22643
-  server: tk.hzlt.tkddns.xyz
-  servername: zxjp-c.tkong.cc
-  tls: true
-  type: vmess
-  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
-  ws-opts:
-    headers:
-      Host: zxjp-c.tkong.cc
-    path: /
 - alterId: 0
   cipher: auto
-  grpc-opts:
-    grpc-service-name: vmess-grpc
-  name: 11|3|🇩🇪1 |  3.7MB/s|Openai
-  network: grpc
-  port: 443
-  server: de.vmess.comnpmjs.com
-  servername: de.vmess.comnpmjs.com
-  tls: true
-  type: vmess
-  uuid: ceaaf653-9874-58c6-b100-092c01a1f73d
-- alterId: 0
-  cipher: auto
-  name: 11|3|🇫🇷4 |  5.2MB/s|0%|Netflix|Op...
+  name: 11|2|🇫🇷4 |  2.7MB/s|100%|Openai
   network: ws
   port: 2095
   server: 185.174.138.209
@@ -583,36 +540,8 @@ proxies:
       Host: yellow-paper-029c.yvonna.workers.dev
     path: /az05.beyondy.cfd/link?/TM
 - alterId: 0
-  cipher: none
-  name: 11|3|🌀6-SE |  4.3MB/s|0%|Youtube|...
-  network: ws
-  port: '443'
-  server: se.vmess.comnpmjs.com
-  servername: se.vmess.comnpmjs.com
-  tls: true
-  type: vmess
-  uuid: d955cf75-5206-5bd4-beff-3b9ce6db67b0
-  ws-opts:
-    headers:
-      Host: se.vmess.comnpmjs.com
-    path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.COM-TO-KEEP-THIS-SERVER-ALIVE
-- alterId: 0
-  cipher: none
-  name: 11|3|🇳🇱1 |  2.7MB/s|26%|Netflix|D...
-  network: ws
-  port: '443'
-  server: nl.vmess.comnpmjs.com
-  servername: nl.vmess.comnpmjs.com
-  tls: true
-  type: vmess
-  uuid: 7e13ed33-8b37-56b1-aa75-d14ebd21dd08
-  ws-opts:
-    headers:
-      Host: nl.vmess.comnpmjs.com
-    path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.COM-TO-KEEP-THIS-SERVER-ALIVE
-- alterId: 0
   cipher: auto
-  name: 11|3|🇩🇪25 |  4.8MB/s|43%|Openai
+  name: 11|2|🇩🇪6 |  2.7MB/s|43%|Youtube|O...
   network: ws
   port: '443'
   server: cloudgetservice.mcloudservice.site
@@ -624,37 +553,112 @@ proxies:
     headers:
       Host: MAxNEtViP-gEr-vp1.MaXnETcLOuDSErVice.com
     path: /linkws
-- alterId: 0
+- alterId: 2
   cipher: auto
-  name: 11|3|🇺🇸103 |  5.1MB/s|29%|Openai|...
+  name: 11|2|🇺🇸61 |  3.9MB/s|29%|Openai
   network: ws
-  port: 443
-  server: m11sERFGH.459.pP.uA
-  servername: m11SERFGh.459.Pp.Ua
+  port: 22641
+  server: tk.hzlt.tkddns.xyz
+  servername: zxjp-a.tkong.cc
   tls: true
   type: vmess
-  uuid: 0a28b420-4f7c-43ad-a29e-80068ce08263
-  ws-opts:
-    headers:
-      Host: m11serfgh.459.pp.ua
-    path: /lhU8ShsoPZlulnnYPb86csp
-- alterId: 0
+  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
+  ws-opts: {}
+- alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: 11,15,16|香港8|@ripaojiedian
+  name: 11,15,16|美国5|@ripaojiedian
   network: ws
-  port: '8080'
-  server: bc842b49-swexs0-t1rt5e-1s09x.hgc1.tcpbbr.net
-  servername: ''
+  port: '22641'
+  server: tk.hzlt.tkddns.xyz
+  servername: zxjp-a.tkong.cc
   skip-cert-verify: false
   tfo: false
-  tls: false
+  tls: true
   type: vmess
-  uuid: 62b7824e-47dc-11ef-9f2d-f23c9164ca5d
+  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
   ws-opts:
     headers:
-      Host: broadcastlv.chat.bilibili.com
+      Host: zxjp-a.tkong.cc
     path: /
+- alterId: 0
+  cipher: auto
+  name: 11|2|🇫🇷10 |  4.4MB/s|0%|Openai
+  network: ws
+  port: 2095
+  server: 185.174.138.209
+  servername: yellow-paper-029c.yvonna.workers.dev
+  tls: false
+  type: vmess
+  uuid: 3f638f34-8dba-4186-bc43-2716a7ddd4be
+  ws-opts:
+    path: /az05.beyondy.cfd/link?/TM
+- alterId: 2
+  cipher: auto
+  name: 11|2|🇺🇸63 |  4.4MB/s|Netflix|Open...
+  network: ws
+  port: 30808
+  server: v8.heduian.link
+  tls: false
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  ws-opts:
+    path: /oooo
+- alterId: 0
+  cipher: auto
+  name: 11|2|🇺🇸65 |  4.7MB/s|32%
+  network: ws
+  port: 2096
+  server: 141.101.120.253
+  servername: 1746882891.speed.adl.cccp.freefly.pp.ua
+  tls: true
+  type: vmess
+  uuid: 381cb6d1-6ad4-4909-8494-b8d786cf78ce
+  ws-opts:
+    headers:
+      Host: 1746882891.speed.adl.cccp.freefly.pp.ua
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 11|2|🇭🇰4 |  3.2MB/s|43%|Youtube
+  network: ws
+  port: 443
+  server: 172.67.135.62
+  servername: hknbyivfffj.site
+  tls: true
+  type: vmess
+  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+  ws-opts:
+    headers:
+      Host: hknbyivfffj.site
+    path: /rbqqvws
+- alterId: 0
+  cipher: auto
+  name: 11|2|🇭🇰5 |  2.3MB/s|43%|Youtube
+  network: ws
+  port: 443
+  server: 104.21.6.201
+  servername: hknbyivfffj.site
+  tls: true
+  type: vmess
+  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+  ws-opts:
+    headers:
+      Host: hknbyivfffj.site
+    path: /rbqqvws
+- alterId: 64
+  cipher: auto
+  name: 11|2|🇯🇵1 |  4.7MB/s|54%|Youtube|O...
+  network: ws
+  port: 1443
+  server: sslvpn.51job.com
+  tls: true
+  type: vmess
+  uuid: a6a0d901-67e9-460a-90b5-634c5c4f9782
+  ws-opts:
+    headers:
+      Host: centos7
+    path: /634c5c4f9782
 - alterId: 64
   cipher: auto
   name: 11,16|香港3|@ripaojiedian
@@ -702,6 +706,23 @@ proxies:
     headers:
       Host: baidu.com
     path: /oooo
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 11,15,16|香港8|@ripaojiedian
+  network: ws
+  port: '8080'
+  server: bc842b49-swexs0-t1rt5e-1s09x.hgc1.tcpbbr.net
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 62b7824e-47dc-11ef-9f2d-f23c9164ca5d
+  ws-opts:
+    headers:
+      Host: broadcastlv.chat.bilibili.com
+    path: /
 - alterId: 64
   cipher: auto
   name: 11,16|日本4|@ripaojiedian
@@ -749,11 +770,11 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: 11,15,16|美国5|@ripaojiedian
+  name: 11,15,16|美国4|@ripaojiedian
   network: ws
-  port: '22641'
+  port: '22642'
   server: tk.hzlt.tkddns.xyz
-  servername: zxjp-a.tkong.cc
+  servername: zxjp-b.tkong.cc
   skip-cert-verify: false
   tfo: false
   tls: true
@@ -761,7 +782,7 @@ proxies:
   uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
   ws-opts:
     headers:
-      Host: zxjp-a.tkong.cc
+      Host: zxjp-b.tkong.cc
     path: /
 - alterId: 0
   cipher: auto
@@ -773,130 +794,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 07287360-e12f-4f94-9c7a-54386c100d8a
-- alterId: 0
-  cipher: auto
-  name: 12|github.com/freefq - 印度  2
-  network: ws
-  port: 443
-  server: 202.78.162.5
-  servername: ''
-  tls: true
-  type: vmess
-  uuid: 2ff97c6d-8557-42a4-b43f-19c77c5959ea
-  ws-opts:
-    headers:
-      Host: irsoft.sytes.net
-    path: /@forwardv2ray
-- alterId: 0
-  cipher: auto
-  name: 12|github.com/freefq - 印度  3
-  network: ws
-  port: 443
-  server: 202.78.162.5
-  servername: ''
-  tls: true
-  type: vmess
-  uuid: 118287d2-e968-42e1-80d0-12fa2f5d38d6
-  ws-opts:
-    headers:
-      Host: sahand.serveminecraft.net
-    path: /@forwardv2ray
-- alterId: 0
-  cipher: auto
-  name: 12|github.com/freefq - 美国CloudFla...
-  network: ws
-  port: 8080
-  server: www.darkroom.lol
-  tls: false
-  type: vmess
-  uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0
-  ws-opts:
-    headers:
-      Host: www.darkroom.lol
-    path: /
-- alterId: 0
-  cipher: auto
-  name: '12|github.com/freefq - 美国CloudFla... #1'
-  network: ws
-  port: 8880
-  server: server31.beheshtbaneh.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 4154143c-bbba-47a4-9f79-c2ed087cbcc9
-  ws-opts:
-    headers:
-      Host: server31.beheshtbaneh.com
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 12|github.com/freefq - 广东省移动 7
-  network: ws
-  port: '20401'
-  server: data-us-v1.shwjfkw.cn
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: b1478e24-4916-3abe-8f17-15931012ecbe
-  ws-opts:
-    headers:
-      Host: data-us-v1.shwjfkw.cn
-    path: /debian
-- alterId: 0
-  cipher: auto
-  name: '12|github.com/freefq - 美国CloudFla... #2'
-  network: ws
-  port: 8880
-  server: 104.21.82.183
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 5a7021e0-26b4-45d6-b175-fe551601ca97
-  ws-opts:
-    headers:
-      Host: server26.beheshtbaneh.com
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 12|github.com/freefq - 印度  10
-  network: ws
-  port: 443
-  server: 202.78.162.5
-  servername: ''
-  tls: true
-  type: vmess
-  uuid: 716eded6-2201-4dbd-9d63-1638c9e8e677
-  ws-opts:
-    headers:
-      Host: pendar.onthewifi.com
-    path: /@forwardv2ray
-- alterId: 0
-  cipher: auto
-  name: 12|github.com/freefq - 美国Fastly全球...
-  network: ws
-  port: 443
-  server: gov.uk
-  tls: true
-  type: vmess
-  uuid: 77848824-93b7-4b89-ffd0-e91afff406ce
-  ws-opts:
-    headers:
-      Host: zheshiscp.com
-    path: /77848824
-- alterId: 0
-  cipher: auto
-  name: '12|github.com/freefq - 美国CloudFla... #3'
-  network: ws
-  port: 8880
-  server: server32.beheshtbaneh.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 044ba8ed-7285-472a-bc14-fb91dc6be4c9
-  ws-opts:
-    headers:
-      Host: server32.beheshtbaneh.com
-    path: /
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 15|tg频道:@ripaojiedian
