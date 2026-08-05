@@ -5,7 +5,7 @@ proxies:
   password: BxceQaOe
   port: 53001
   server: 16.162.3.64
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   tls: false
   type: trojan
